@@ -1,1 +1,1 @@
-Git course repo for testing
+Course repo for testing git
