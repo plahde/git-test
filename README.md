@@ -1,3 +1,2 @@
 Course repo for testing git
-More features
-and some
+More features and some more feature
